@@ -3,7 +3,7 @@
 # Created: 2010-05-22
 
 HOST:=sparcs.org
-BASE:=/~netj/koradio
+BASE:=/~netj/radio.kr
 
 .PHONY: all
 all: \

@@ -1,5 +1,5 @@
-한국의 라디오 주소들
-==================
+한국 라디오 인터넷 듣기 주소들
+==============================
 
 라디오가 없거나 신호가 잘 안잡히는 지역에 있는데 라디오를 들으시고 싶으신
 경우가 있죠?  [디씨 라디오갤][radiogal]에 사람들이 한국의 라디오를 인터넷으로
@@ -21,17 +21,19 @@ Mac을 쓰신다면 [FStream][]으로 듣기를 강추합니다!
 라디오를 들을 수 있답니다.
 
 * FStream 설정 중 "프리셋"에 "한국 라디오"로
-[http://j.mp/koradio](http://j.mp/koradio)를 등록해두시면 위의 방송국들을
+[http://j.mp/radiokr](http://j.mp/radiokr)를 등록해두시면 위의 방송국들을
 아주 편하게 선택해서 들으실 수 있습니다.
 * [FStream .plist 형식](KoreanRadioURLs.fstream.plist)으로 몽땅 Import도
 가능하며
 * [FStream fsradio: URL 목록](KoreanRadioURLs.fstream.html)에서 바로
 FStream으로 라디오를 열 수도 있습니다. (이건 Mac에서만)
 
-
 [radiogal]: http://gall.dcinside.com/list.php?id=radio&no=35715&page=1&bbs=
 [fstream]: http://www.sourcemac.com/?page=fstream
 [fstream app]: http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289892007&mt=8
 
-----
-문의는 [@netj](http://twitter.com/netj)로
+
+정리한 방법이 궁금하거나 직접 손보려면 [git 저장소][radio.kr git repo]를
+가보시고, 그 밖의 문의/건의는 [@netj](http://twitter.com/netj)로 주세요.
+
+[radio.kr git repo]: http://github.com/netj/radio.kr
