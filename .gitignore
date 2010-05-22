@@ -1,0 +1,13 @@
+*.sw?
+*~
+.DS_Store
+
+/RadioGal.html
+/RadioGal.tsv
+/KoreanRadioURLs.tsv
+/KoreanRadioURLs.pls
+/index.html
+
+/KoreanRadioURLs.fstream.plist
+/KoreanRadioURLs.fstream.html
+/fstream
