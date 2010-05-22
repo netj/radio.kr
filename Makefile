@@ -2,8 +2,8 @@
 # Author: Jaeho Shin <netj@sparcs.org>
 # Created: 2010-05-22
 
-HOST:=netj.org
-BASE:=/radio.kr
+HOST:=sparcs.org
+BASE:=/~netj/koradio
 
 .PHONY: all
 all: \

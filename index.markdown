@@ -21,7 +21,7 @@ Mac을 쓰신다면 [FStream][]으로 듣기를 강추합니다!
 라디오를 들을 수 있답니다.
 
 * FStream 설정 중 "프리셋"에 "한국 라디오"로
-[http://bit.ly/koradio](http://bit.ly/koradio)를 등록해두시면 위의 방송국들을
+[http://j.mp/koradio](http://j.mp/koradio)를 등록해두시면 위의 방송국들을
 아주 편하게 선택해서 들으실 수 있습니다.
 * [FStream .plist 형식](KoreanRadioURLs.fstream.plist)으로 몽땅 Import도
 가능하며
