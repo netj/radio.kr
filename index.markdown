@@ -34,4 +34,4 @@ FStream으로 라디오를 열 수도 있습니다. (이건 Mac에서만)
 [fstream app]: http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289892007&mt=8
 
 ----
-문의는 @netj로.
+문의는 [@netj](http://twitter.com/netj)로
