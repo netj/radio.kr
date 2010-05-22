@@ -9,7 +9,7 @@ echo "<title>$title</title>"
 echo '<meta http-equiv="Content-Type" content="text/html; charset=utf-8">'
 echo "<h1><a href='$url'>$title</a></h1>"
 sed -n '/google_ad_section_start/,/google_ad_section_end/p' |
-sed -E \
+sed -r \
     -e 's#</P><P>#<BR>#g' \
     -e 's#</P>#<BR>&#g' \
     -e 's/<[Bb][Rr]>/<BR>/g' \
