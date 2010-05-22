@@ -9,7 +9,6 @@ set -e
 awk '
 BEGIN {
     print "[playlist]"
-    print "NumberOfEntries='"`wc -l KoreanRadio.tsv`"'"
     print ""
     i=0
 }
@@ -23,6 +22,7 @@ BEGIN {
 }
 END {
     print ""
+    print "NumberOfEntries="i
     print "Version=2"
 }
 '
