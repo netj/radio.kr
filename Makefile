@@ -15,7 +15,7 @@ all: \
     #
 
 # index page
-index.html: index.markdown
+index.html: README.markdown
 	echo '<meta http-equiv="content-type" content="text/html;charset=utf-8">' >$@
 	Markdown.pl >>$@ <$<
 
