@@ -28,12 +28,16 @@ Mac을 쓰신다면 [FStream][]으로 듣기를 강추합니다!
 * [FStream fsradio: URL 목록](KoreanRadioURLs.fstream.html)에서 바로
 FStream으로 라디오를 열 수도 있습니다. (이건 Mac에서만)
 
-[radiogal]: http://gall.dcinside.com/list.php?id=radio&no=35715&page=1&bbs=
-[fstream]: http://www.sourcemac.com/?page=fstream
-[fstream app]: http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289892007&mt=8
-
 
 정리한 방법이 궁금하거나 직접 손보려면 [git 저장소][radio.kr git repo]를
 가보시고, 그 밖의 문의/건의는 [@netj](http://twitter.com/netj)로 주세요.
 
+제가 작성한 모든 내용은
+[Creative Commons 저작자표시-동일조건변경허락 2.0][cc by-sa]으로 공유합니다.
+
+
+[radiogal]: http://gall.dcinside.com/list.php?id=radio&no=35715&page=1&bbs=
+[fstream]: http://www.sourcemac.com/?page=fstream
+[fstream app]: http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289892007&mt=8
 [radio.kr git repo]: http://github.com/netj/radio.kr
+[cc by-sa]: http://creativecommons.org/licenses/by-sa/2.0/kr/deed.ko
