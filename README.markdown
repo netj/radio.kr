@@ -9,8 +9,11 @@
 
 * [정리된 라디오갤 페이지](RadioGal.html)
 
+이외에도 몇몇 사이트를 참고하여 찾은 주소를 더해서:
 
-여기에 몇몇 주소를 더해서 목록을 만들었죠:
+* [미엘리키님의 KBS 라디오 스트리밍 주소 페이지][mielikki]
+
+방송국을 쉽게 선택할 수 있는 목록으로 만들었습니다:
 
 * [.pls 형식](KoreanRadioURLs.pls)
 * [.tsv 형식](KoreanRadioURLs.tsv)
@@ -37,6 +40,7 @@ FStream으로 라디오를 열 수도 있습니다. (이건 Mac에서만)
 
 
 [radiogal]: http://gall.dcinside.com/list.php?id=radio&no=35715&page=1&bbs=
+[mielikki]: http://mielikki.tistory.com/197
 [fstream]: http://www.sourcemac.com/?page=fstream
 [fstream app]: http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289892007&mt=8
 [radio.kr git repo]: http://github.com/netj/radio.kr
