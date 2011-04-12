@@ -4,12 +4,12 @@
 라디오가 없거나 신호가 잘 안잡히는 지역에 있는데 라디오를 들으시고 싶으신
 경우가 있죠?  [디씨 라디오갤][radiogal]에 사람들이 한국의 라디오를 인터넷으로
 들을 수 있는 주소들이 모여 있는 것을 발견하고는 무척 신이 났습니다.  그러나
-일일이 복사&붙여넣기로 방송국을 등록해서 들으려다보니 짜증이 밀려오더군요.
+일일이 복사&amp;붙여넣기로 방송국을 등록해서 들으려다보니 짜증이 밀려오더군요.
 제가 한 차례 정리를 해봤습니다:
 
 * [정리된 라디오갤 페이지](RadioGal.html)
 
-이외에도 몇몇 사이트를 참고하여 찾은 주소를 더해서:
+그 밖의 사이트에서도 찾은 주소를 더해서:
 
 * [미엘리키님의 KBS 라디오 스트리밍 주소 페이지][mielikki]
 
@@ -40,8 +40,8 @@ FStream으로 라디오를 열 수도 있습니다. (이건 Mac에서만)
 
 
 [radiogal]: http://gall.dcinside.com/list.php?id=radio&no=35715&page=1&bbs=
-[mielikki]: http://mielikki.tistory.com/197
+[mielikki]: http://mielikki.tistory.com/327
 [fstream]: http://www.sourcemac.com/?page=fstream
-[fstream app]: http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289892007&mt=8
+[fstream app]: http://itunes.apple.com/us/app/fstream/id289892007?mt=8
 [radio.kr git repo]: http://github.com/netj/radio.kr
 [cc by-sa]: http://creativecommons.org/licenses/by-sa/2.0/kr/deed.ko
